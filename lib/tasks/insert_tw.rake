@@ -561,7 +561,7 @@ zN                 置位 'foldenable'。
 zO                 遞迴開啟摺疊。
 zR                 設定 'foldlevel' 為最大摺疊級別。
 zW                 把單字標記為拼字錯誤 (wrong)。
-zX                 重新應用 'foldlevel'。
+zX                 重新套用 'foldlevel'。
 z^                 游標移動到第 N 行 (預設為視窗之前的一行)，其它同 "z-"。
 za                 開啟關閉的摺疊，或關閉開啟的摺疊。
 zb                 重繪，游標在視窗底行。
@@ -583,7 +583,7 @@ zs                 'wrap' 關閉時，水平滾動使得游標定位到畫面的
 zt                 重繪，游標移動到視窗的頂部。
 zw                 把單字標記為拼字錯誤 (wrong)。
 zv                 開啟足夠的摺疊，使得該行可見。
-zx                 重新應用 'foldlevel' 然後執行 "zv"。
+zx                 重新套用 'foldlevel' 然後執行 "zv"。
 zz                 重繪，游標移動到視窗的中間行。
 z<Left>            等同於 "zh"。
 z<Right>           等同於 "zl"。
@@ -851,7 +851,7 @@ CTRL-_          'allowrevins'  開啟時: 變更語言 (希伯來，波斯)。
 :dif[fupdate]   更新 'diff' 緩衝區。
 :diffg[et]      刪除該緩衝區的所有差異。
 :diffo[ff]      關閉 diff 模式。
-:diffp[atch]    應用補丁然後顯示差異。
+:diffp[atch]    套用 patch 然後顯示差異。
 :diffpu[t]      刪除另外一個緩衝區的差異。
 :diffs[plit]    顯示和另外一個檔案的差異。
 :diffthis       使得當前視窗成為 diff 視窗。
@@ -859,8 +859,8 @@ CTRL-_          'allowrevins'  開啟時: 變更語言 (希伯來，波斯)。
 :di[splay]      顯示暫存器。
 :dj[ump]        跳轉到 #define。
 :dl[ist]        列出所有的 #define。
-:do[autocmd]    在該緩衝區應用自動指令。
-:doautoa[ll]    在所有載入的緩衝區上應用自動指令。
+:do[autocmd]    在該緩衝區套用自動指令。
+:doautoa[ll]    在所有載入的緩衝區上套用自動指令。
 :dr[op]         跳到編輯某檔案的視窗，不成功則在當前視窗編輯之。
 :ds[earch]      列出一個 #define。
 :dsp[lit]       分割視窗並跳轉到 #define。
