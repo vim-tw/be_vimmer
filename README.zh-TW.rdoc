@@ -1,5 +1,7 @@
 == 關於 Be Vimmer
 
+{<img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/vim-tw/be_vimmer">}[https://gitter.im/vim-tw/be_vimmer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 Be Vimmer 是一個可定期在 Twitter 上發佈 Vim 指令及相關敘述 (日文、英文、簡體中文及繁體中文) 的應用程式，以於幫助 Vim 初學者。
 
 

@@ -1,7 +1,5 @@
 == About Be Vimmer
 
-{<img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/vim-tw/be_vimmer">}[https://gitter.im/vim-tw/be_vimmer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
-
 Be Vimmer is an application that tweets Vim commands and their description periodically in Japanese, English and Chinese(cn & tw). This application was created in order to help Vim learners.
 
 
